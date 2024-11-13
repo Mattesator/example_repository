@@ -1,2 +1,4 @@
 # example_repository
-Nový repozitář
+
+Nový repozitář.
+Druhý řádek.
